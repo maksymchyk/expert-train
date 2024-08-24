@@ -1,8 +1,10 @@
+# Git Assignment - <maksymchyk>
+
 a. What is an issue?
 Issues are used to track todos, bugs, feature requests, and more. Its similar to a ticket.
 
 b. What is a pull request?
-It is a request to pull updates from your branch to the main branch, merge updates between branches.
+It is a request to pull updates from your branch to the main branch, merge updates between branches. It allows for proper review and testing before merging different branches.
 
 c. Describe the steps to open a pull request?
 After the changes are staged, commited, and pushed to the github, pull reuest is started with clicking "Compare and pull request" button under pull requests tab. You need to a title and a description of changes to complete the creation of a pull request.
