@@ -18,8 +18,8 @@ Git is a distributed version control system. It allowes multiple team members to
 f. What does git diff do?   
 It shows line by line differences between various states of current repository, like staging,, working directory and between different commits.
 
-g. What is the main branch? 
+g. What is the main branch?     
 It is a default primary branch of the repository that contains stable production ready version of the code. It's a base for other branches, target for merging, and usually a point where releases are made from.
 
-h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch? 
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?     
 It is not recommended for projects where multiple people are working on the project. This practice doesn't enable code review and allows collaboration conflicts.
